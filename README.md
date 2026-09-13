@@ -1,2 +1,0 @@
-# DSML
-Lecture based
